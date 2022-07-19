@@ -6,3 +6,6 @@ prefix: RNGCrops
 authors: [ UpFault ]
 description: Crop Tools from hypixel as an enchant
 website: https://ianjohnson.us
+commands:
+  rngcrops:
+
