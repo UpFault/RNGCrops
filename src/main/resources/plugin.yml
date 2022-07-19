@@ -1,0 +1,8 @@
+name: RNGCrops
+version: '${project.version}'
+main: us.ianjohnson.rngcrops.RNGCrops
+api-version: 1.19
+prefix: RNGCrops
+authors: [ UpFault ]
+description: Crop Tools from hypixel as an enchant
+website: https://ianjohnson.us
